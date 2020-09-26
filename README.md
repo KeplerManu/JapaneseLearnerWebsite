@@ -1,1 +1,2 @@
 # JapaneseLearnerWebsite
+04_finalのhome.htmlから始めてください
